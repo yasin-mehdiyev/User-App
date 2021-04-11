@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Yasin Mehdiyev",
+      "username": "yasin.mehdiyev2",
+      "email": "yasinmm@code.edu",
+      "phone": "1112",
+      "website": "www.code.edu.az",
+      "id": 2
+    },
+    {
+      "name": "Yasin Mehdiyev",
+      "username": "yasin.mehdiyev2",
+      "email": "yasinmm@code.edu",
+      "phone": "1112",
+      "website": "www.code.edu.az",
+      "id": 7
+    },
+    {
+      "name": "Fargana Karimova",
+      "username": "fərqanə.kərimova2",
+      "email": "farganakarimova99@gmail.com",
+      "phone": "077-888-08-06",
+      "website": "farganakarimova.info.az",
+      "id": 10
+    }
+  ]
+}
